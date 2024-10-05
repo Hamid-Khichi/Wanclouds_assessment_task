@@ -15,8 +15,8 @@ Author: Hamid Khan
 2. **Clone the Repo**:
     Clone this repository using the following command:
     ```bash
-    git clone <repository-link>
-    cd <repository-directory>
+    git clone <https://github.com/Hamid-Khichi/Wanclouds_assessment_task>
+    cd </home/hamid/Wanclouds_Assignment>
 
 3. **Run the C Program that is to be monitored**:
     Replace the <your_name> with any name in the command-line
@@ -60,8 +60,8 @@ The Program detects PIDs in real time
 1. **Clone the Repo**:
     Clone this repository using the following command:
     ```bash
-    git clone <repository-link>
-    cd <repository-directory>
+    git clone <https://github.com/Hamid-Khichi/Wanclouds_assessment_task>
+    cd </home/hamid/Wanclouds_Assignment>
 
 2. **Compile the C program**:
     Use the following command to compile the C program:
